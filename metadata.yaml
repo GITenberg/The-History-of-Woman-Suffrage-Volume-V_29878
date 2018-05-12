@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5924
     wikipedia: http://en.wikipedia.org/wiki/Ida_Husted_Harper
 description: This volume covers 1900-1920.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29878#The-History-of-Woman-Suffrage-Volume-V
 gutenberg_issued: '2009-08-31'
 gutenberg_type: Text
 identifiers:
