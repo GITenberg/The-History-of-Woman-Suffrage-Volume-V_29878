@@ -1,0 +1,30 @@
+_repo: The-History-of-Woman-Suffrage-Volume-V_29878
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Harper, Ida Husted
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '5924'
+    url: http://www.gutenberg.org/2009/agents/5924
+    wikipedia: http://en.wikipedia.org/wiki/Ida_Husted_Harper
+description: This volume covers 1900-1920.
+gutenberg_issued: '2009-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'Women -- Suffrage -- History'
+- !lcsh 'Women''s rights -- United States -- History'
+- !lcsh 'Women -- Suffrage -- United States -- History'
+- !lcsh 'Women''s rights -- History'
+title: The History of Woman Suffrage, Volume V
+url: http://www.gutenberg.org/ebooks/29878
